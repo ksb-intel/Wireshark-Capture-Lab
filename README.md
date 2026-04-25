@@ -5,7 +5,7 @@
 
 <br>
 
-This project captures and analyzes PCAPs (network packet capture files) using Wireshark on Windows 1. The goal was to capture live key network protocols and demonstrate packet analysis using the Wireshark display filters. 
+This project captures and analyzes PCAPs (network packet capture files) using Wireshark on Windows 11. The goal was to capture live key network protocols and demonstrate packet analysis using the Wireshark display filters. 
 
 <br>
 
